@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning: [R](https://www.r-project.org/)
 - 🔭 I’m currently working on: [knct](https://www.knct.world)
 
+<a href="https://stackexchange.com/users/12257466"><img src="https://stackexchange.com/users/flair/12257466.png" width="208" height="58" alt="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 
 <!--
 **algo7/algo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
