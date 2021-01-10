@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 📫 How to reach me: chaoheng.lo@ehl.ch
-- 📫 How to reach me: www.avivlo.com
+- 📫 How to reach me: www.avivlo.com  ![Website](https://img.shields.io/website?down_message=OPSI&up_message=Online&url=https%3A%2F%2Fwww.avivlo.com)
 - 🌱 I’m currently learning: [R](https://www.r-project.org/)
 - 🔭 I’m currently working on: [knct](https://www.knct.world)
+
 
 
 <!--
