@@ -7,6 +7,7 @@
 
 <a href="https://stackoverflow.com/users/9662626/aviv-lo"><img src="https://stackexchange.com/users/flair/12257466.png?theme=dark" width="208" height="58" alt="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
+![Readme Card](https://github-readme-stats.vercel.app/api?username=algo7&show_icons=true&theme=radical)
 
 <!--
 **algo7/algo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
