@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: algo7@pm.me
 - 📫 How to reach me: www.avivlo.com  ![Website](https://img.shields.io/website?down_message=OPSI&up_message=Online&url=https%3A%2F%2Fwww.avivlo.com)
-- 🌱 I’m currently learning: [R](https://www.r-project.org/)
+- 🌱 I’m currently learning: [Go](https://golang.org/)
 - 🔭 I’m currently working on: [ECHO](https://www.echo.place)
 -  ⚡ Fun fact: I am addicted to iced tea
 
