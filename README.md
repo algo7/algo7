@@ -12,6 +12,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algo7&theme=radical)
 
+<a href="https://mynickname.com/id1670003"><img src="https://mynickname.com/img.php?id=1670003&sert=1"></a>
+
 <!--
 **algo7/algo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
