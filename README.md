@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: githublo@pm.me
-- 📫 How to reach me: www.avivlo.com 
 - 🌱 I’m currently learning: [Go](https://golang.org/)
-- 🔭 I’m currently working on: [ECHO](https://www.echo.place)
 - ⚡ Fun fact: I am addicted to iced tea
 
 <a href="https://stackoverflow.com/users/9662626/aviv-lo"><img src="https://stackexchange.com/users/flair/12257466.png?theme=dark" width="208" height="58" alt="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
