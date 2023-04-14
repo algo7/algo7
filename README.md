@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: [Go](https://golang.org/)
 - ⚡ Fun fact: I am addicted to iced tea
 
-<a href="https://stackoverflow.com/users/9662626/algo7"><img src="https://stackexchange.com/users/flair/12257466.png?theme=dark" width="208" height="58" alt="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aviv Lo on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/9662626/algo7"><img src="https://stackexchange.com/users/flair/12257466.png?theme=dark" width="208" height="58" alt="profile for Algo7 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Algo7 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=algo7&show_icons=true&theme=radical)
 
@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!-- ![Website](https://img.shields.io/website?down_message=OPSI&up_message=Online&url=https%3A%2F%2Fwww.avivlo.com) -->
