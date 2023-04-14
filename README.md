@@ -2,8 +2,8 @@
 - 📫 How to reach me: githublo@pm.me
 - 🌱 I’m currently learning: [Go](https://golang.org/)
 - ⚡ Fun fact: I am addicted to iced tea
+- StackOverflow: https://stackoverflow.com/users/9662626/algo7
 
-<a href="https://stackoverflow.com/users/9662626/algo7"><img src="https://stackexchange.com/users/flair/12257466.png?theme=dark" width="208" height="58" alt="profile for Algo7 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Algo7 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=algo7&show_icons=true&theme=radical)
 
