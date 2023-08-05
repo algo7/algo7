@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning: [Go](https://golang.org/)
 - ⚡ Fun fact: I am addicted to iced tea
 - StackOverflow: https://stackoverflow.com/users/9662626/algo7
+- [![Github Contribution Ranking - Switzerland](https://user-badge.committers.top/switzerland_private/algo7.svg)](https://user-badge.committers.top/switzerland_private/algo7)
+- [![Github Contribution Ranking - Taiwan](https://user-badge.committers.top/taiwan_private/algo7.svg)](https://user-badge.committers.top/taiwan_private/algo7)
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=algo7&show_icons=true&theme=radical)
